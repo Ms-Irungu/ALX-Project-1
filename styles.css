@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background-image: url(/images/headphones_hero_1.jpg);
+    background-image: url(images/headphones_hero_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -160,7 +160,7 @@ nav, footer {
 }
 
 .our-results{
-    background-image: url(/images/headphones_hero_2.jpg);
+    background-image: url(images/headphones_hero_2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -197,7 +197,7 @@ nav, footer {
 }
 .result{
     position: relative;
-    background-image: url(/images/pentagone.png);
+    background-image: url(images/pentagone.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
