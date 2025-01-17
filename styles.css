@@ -349,7 +349,6 @@ footer{
     .main-content {
         padding: 20px 20px;
         text-align: center;
-        top: 60%;
     }
     .main-content h1{
         font-size: 28px;
@@ -359,6 +358,7 @@ footer{
     }
     .description{
         font-size: 15px;
+        margin: 50px 0;
     }
     .nav-links ul li{
         display: block;
