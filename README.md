@@ -1,5 +1,5 @@
 # ALX-Project-1
-# Figma design - [text](https://www.figma.com/design/glFUHMVogwSrwP3Jgk4S1Y/a5366bbd595c643993665e2a28909370a7e12c66?node-id=0-1&t=JnkC6vv1exgT1eVc-1)
+# Figma design - [Link](https://www.figma.com/design/glFUHMVogwSrwP3Jgk4S1Y/a5366bbd595c643993665e2a28909370a7e12c66?node-id=0-1&t=JnkC6vv1exgT1eVc-1)
 
 
 # 🌐 Responsive Website with Clean Design
